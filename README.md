@@ -1,0 +1,1 @@
+This is a collection of utility files for helping out with JFree Chart
